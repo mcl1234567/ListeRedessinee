@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nomApplication">Liste de tâches</string>
+    <string name="addItemHint">Nouvelle tâche</string>
+    <string name="addItemContentDescription">Nouvelle tâche</string>
+    <string name="EditTextNomTache">Entrer une tâche..</string>
+    <string name="BoutonNouvelleTache">Nouvelle tâche</string>
+    <string name="text_accueil">Bienvenue !</string>
+    <string name="nouvelleListeTodo">Créer une Liste</string>
+
+</resources>

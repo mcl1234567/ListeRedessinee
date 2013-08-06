@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NouvelleListe" >
+
+     <EditText
+        android:id="@+id/EditTextNomTache"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/EditTextNomTache" />
+
+	<Button
+        android:id="@+id/BoutonNouvelleTache"
+        android:text="@string/BoutonNouvelleTache"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </Button>
+
+	<ListView 
+		android:id="@+id/ListViewTaches"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent" >
+	</ListView>
+
+</LinearLayout>

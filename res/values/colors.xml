@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="notepad_paper" >#AAFFFF99</color> <!-- gris --> 
+    <color name="notepad_lines" >#FF0000FF</color>	<!-- rouge --> 
+    <color name="notepad_margin" >#90FF0000</color>	<!-- vert --> 
+    <color name="notepad_text" >#AA0000FF</color>	<!-- bleu  --> 
+
+</resources>
